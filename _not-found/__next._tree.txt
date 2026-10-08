@@ -1,4 +1,4 @@
-:HL["/BugDoctor/_next/static/chunks/2ljdagg0ulb9g.css","style"]
+:HL["/BugDoctor/_next/static/chunks/11zy7xewylgq3.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"68RY4MlOCTHktNPk6-b3U","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"aVLuHUK_LWiGZ91o5wAmk","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
