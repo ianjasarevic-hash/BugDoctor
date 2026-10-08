@@ -1,4 +1,4 @@
 :HL["/BugDoctor/_next/static/chunks/1ndhj_v34w_x8.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"KKmvk0Lc-nBMtOz8BlQ7M","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Qyz4n7eTbZx6lNn7zG-Mb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
