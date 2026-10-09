@@ -2,4 +2,4 @@
 :HL["/BugDoctor/_next/static/media/051742360c26797e-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/BugDoctor/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"Fo2-E6fFpF-BYV4jOB7EZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"RT6pMed2cRNPovTLPNVgj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
